@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UMovie</string>
+    <string name="image">TODO</string>
+    <string name="your_place_to_watch">Your place to watch</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="question">Hai, mau nonton apa hari ini?</string>
+    <string name="custom_text">sedang memuat..</string>
+    <string name="tagline">Tagline: </string>
+    <string name="release_date">Release Date: </string>
+    <string name="ratings">Ratings: </string>
+    <string name="review">Review </string>
+</resources>
